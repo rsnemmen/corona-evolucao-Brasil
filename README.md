@@ -3,7 +3,7 @@ Evolução dos casos de COVID-19 no Brasil
 
 Inferências da evolução dos casos de COVID-19 no Brasil, contendo vários gráficos de séries temporais. Escrito em Python 3x e Jupyter.
 
-![Evolução do número de casos de COVID-19]('./Screenshot 2020-03-23 08.18.54.png')
+![Evolução do número de casos de COVID-19](./Screenshot 2020-03-23 08.18.54.png)
 
 # Usage
 
